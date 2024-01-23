@@ -1,0 +1,20 @@
+/* JTScroll STYLE */
+
+.butJTScroll{
+	display: none;
+	position: fixed;
+	bottom: 30px;
+	right: 20px;
+	width: 100px;
+	height: 40px;
+	background:url(arrow.png)center no-repeat rgba(0,0,0,0.5);
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
